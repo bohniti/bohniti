@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Timo</h1>
-<h3 align="center">A passionate machine learning engineer from Germany</h3>
+<h3 align="center">A passionate machine learning engineer from Germany. Currently, I am a graduate computer science student at the <p><img align="center" src="https://www.fau.eu" alt="FAU Erlangen-Nuernberg" /></p>. My goal is instead of turning coffee into code I want code to turn into money 🤪. Just kidding 🙈 I enjoy the process of becoming a machine learning engineer and always curious about new things which I could lean!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bohniti" alt="bohniti" /> </p>
 
