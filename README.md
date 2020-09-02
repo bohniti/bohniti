@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bohniti" alt="bohniti" /> </p>
 
-- 🔭 I’m currently working on **solving a jigsaw puzzle**
+- 🔭 I’m currently working on [solving a jigsaw puzzle](https://github.com/bohniti/Jigsaw-Puzzling)
+
+- 🌱 I’m currently learning **PyTorch**
+
+- 📫 How to reach me **timo.bohnstedt@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
