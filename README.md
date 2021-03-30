@@ -1,6 +1,6 @@
 <h1 align="center">It's me, Timo 👋</h1>
 <center>
-<h3 align="center">CS Student Working Stunden in Data Science for Siemens Healthineers</h3>
+<h3 align="center">CS-Stundent and Data Scientist at Siemens Healthineers</h3>
 </center>
 
 <p align="center">
