@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mavengence" alt="mavengence" /> </p>
 
-- 🔭 I’m currently working on [Style Classification in Posters](coming soon!)
+- 🔭 I’m currently working on [solving a Jiggsaw Puzzle](coming soon!)
 
 - 🌱 I’m currently learning **Docker and Ray**
 
