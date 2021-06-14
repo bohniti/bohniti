@@ -20,3 +20,10 @@
 - 📫 How to reach me **timo.bohnstedt@gmail.com**
 
 - ⚡ I love **coffee and climbing:)**
+
+<a href="https://github.com/dfuchss/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bohniti&show_icons=true&line_height=32&hide=stars&hide_rank=true" />
+</a>
+<a href="https://github.com/dfuchss/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bohniti&show_icons=true&hide=shell" />
+</a>
